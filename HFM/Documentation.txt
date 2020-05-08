@@ -1,0 +1,2 @@
+High Fidelity Model(HFM) which is discretized in the PFR. 'dydt.m' contains the model equations. 'HFM.m' runs the ODE solver with d
+user defined creiteria.
