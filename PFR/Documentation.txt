@@ -1,0 +1,1 @@
+Plug Flow Reactor (PFR) model solving a series of connected HFM Continuously Stirred Tank Reactors(CSTRs)
